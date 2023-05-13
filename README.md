@@ -10,7 +10,7 @@ every minute of it!
 
 ## What I've Done So Far 
 
-- Debt Calculator App vis React (https://debt-calculator-eta.vercel.app/)
+- Debt Calculator App via React (https://debt-calculator-eta.vercel.app/)
 - PokeDex App via Vanilla JS, HTML, & CSS (https://og-pokemon.vercel.app/)
 - SaaS Static Landing Page (https://saas-website-gamma.vercel.app/)
 
