@@ -1,33 +1,23 @@
-## Hello! (New)
-My name is Saxton Grey Vasquez and I am a front-end web developer. I pride myself in my creative ability and perfectionist mindest which gives me all the right tools to specialize in design and UX/UI.
+## 👋 Hey there, I'm Saxton Grey Vasquez
+Welcome to my corner of the web! I'm not just a front-end web developer; I'm a creative visionary with an unrelenting commitment to perfection. My mission? To craft digital experiences that are not just functional, but awe-inspiring. Let me show you how I make pixels dance and websites sing!
 
-## Check Out My Portfolio!
-<a href="https://www.riotmedia.co/">Riot Media</a>
+## 🚀 Explore My Portfolio
+🌟 Dive into my world of design and development at <a href="https://www.riotmedia.co/">Riot Media</a>.  Witness the fusion of aesthetics and functionality that defines my work. It's more than just websites; it's digital artistry.
 
-## What I'm Currently Learning 
+## 🤝 What I'm On the Hunt For
 
-1. Advanced React
-2. SQL
-3. UI/UX Design
+In my journey as a developer and designer, I'm on the lookout for exciting opportunities that align with my passions:
 
-## What I've Done So Far 
+1.    Elevating Small Businesses: I'm on a mission to infuse brand identity into websites, giving small businesses the boost they deserve. Let's make your online presence shine.
 
-- Debt Calculator App via React (https://debt-calculator-eta.vercel.app/)
-- PokeDex App via Vanilla JS, HTML, & CSS (https://og-pokemon.vercel.app/)
-- SaaS Static Landing Page (https://saas-website-gamma.vercel.app/)
+2.    Teamwork Makes the Dream Work: Collaborating with fellow creatives is where magic happens. I'm eager to contribute my design and UX/UI expertise to ambitious teams working towards a common vision. Together, we'll create something extraordinary.
 
+3.  Empowering Developers: Are you a fellow dev looking to level up your skills through collaborative projects? Let's connect! I'm all about fostering growth and pushing boundaries together.
 
-## Hello! (old)
-My name is Saxton and I am currently studying full-stack web development. So far I have learned Python, HTML, and CSS and I have loved
-every minute of it!
+📢 Let's Connect!
 
-## What I'm Currently Learning 
+Ready to embark on a digital adventure together? Don't hesitate to reach out. Whether it's a project proposal, a collaboration idea, or just a friendly chat about web development, I'm all ears!
 
-1. Advanced HTML & CSS
-2. Javascript
-3. Git
+Saxton@RiotMedia.co
 
-## What I've Done So Far 
-
-- Web-Design (https://github.com/CosmicZep/MyTube)
 
