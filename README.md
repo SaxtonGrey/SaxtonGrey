@@ -1,6 +1,8 @@
 ## Hello! (New)
-My name is Saxton Grey Vasquez and I am a front-end web developer, currently continuing education in full-stack. So far I have learned Python, HTML, CSS, JavaScript, React, Node, and JSX and I have loved
-every minute of it!
+My name is Saxton Grey Vasquez and I am a front-end web developer. I pride myself in my creative ability and perfectionist mindest which gives me all the right tools to specialize in design and UX/UI.
+
+## Check Out My Portfolio!
+<a href="https://www.riotmedia.co/">Riot Media</a>
 
 ## What I'm Currently Learning 
 
