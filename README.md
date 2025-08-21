@@ -2,7 +2,7 @@
 Welcome to my corner of the web! I'm not just a front-end web developer; I'm a creative visionary with an unrelenting commitment to perfection. My mission? To craft digital experiences that are not just functional, but awe-inspiring. Let me show you how I make pixels dance and websites sing!
 
 ## 🚀 Explore My Portfolio
-🌟 Dive into my world of design and development at <a href="[https://www.riotmedia.co/](https://folio-saxtongrey.vercel.app/)">Riot Media</a>.  Witness the fusion of aesthetics and functionality that defines my work. It's more than just websites; it's digital artistry.
+🌟 Dive into my world of design and development at <a target="blank" href="https://folio-saxtongrey.vercel.app/">Riot Media</a>.  Witness the fusion of aesthetics and functionality that defines my work. It's more than just websites; it's digital artistry.
 
 ## 🤝 What I'm On the Hunt For
 
